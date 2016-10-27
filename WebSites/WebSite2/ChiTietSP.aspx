@@ -2,7 +2,7 @@
 
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <asp:Image ImageUrl ="~/Images/Gaming PC 1.png" runat="server" /> </br>
+    <asp:Image ImageUrl ="~/Images/Gaming PC 1.png" Height ="400" Width ="600" runat="server" /> </br>
     <h3>CYBERPOWER Z170 I7 CONFIGURATOR</h3>
     <p>- Fall Super Massive Featured Promotions: CYBERPOWERPC Skorpion K1 RGB Mechanical Gaming Keyboard w/ Kontact Blue Switches and Programmable RGB LED Lighting </br>
     - Gaming Chassis: Phanteks Enthoo Pro M ATX Mid-Tower Gaming Case w/ USB 3.0, Side-Panel Window (Black + Dual Full size Tempered Glass window Panels) </br>
